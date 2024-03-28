@@ -12,10 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af9171c49e7bc3f4aa4ead48d10d51ff, type: 3}
   m_Name: TopMiddleConnection
   m_EditorClassIdentifier: 
-  Name: 
+  Name: TopMiddleConnection
   Prefab: {fileID: 0}
   Top:
-    CompatibleNodes: []
+    CompatibleNodes:
+    - {fileID: 11400000, guid: 8d0bdc8161cbf4d419eaf2615e0f3a43, type: 2}
+    - {fileID: 11400000, guid: c3550fc23209bc1489d1a5f76098dff0, type: 2}
+    - {fileID: 11400000, guid: a2ce80d58ac12c44d85206f600610fba, type: 2}
   Bottom:
     CompatibleNodes: []
   Left:

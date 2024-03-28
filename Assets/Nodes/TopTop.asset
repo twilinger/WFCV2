@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af9171c49e7bc3f4aa4ead48d10d51ff, type: 3}
   m_Name: TopTop
   m_EditorClassIdentifier: 
-  Name: 
+  Name: TopTop
   Prefab: {fileID: 0}
   Top:
-    CompatibleNodes: []
+    CompatibleNodes:
+    - {fileID: 11400000, guid: 9f1526f47cf88244d9a0d8ba14904e48, type: 2}
   Bottom:
     CompatibleNodes: []
   Left:
